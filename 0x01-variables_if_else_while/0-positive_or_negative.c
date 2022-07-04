@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
+/**
  * main - Entry point
  * * if and else statements
  * * Return: always (o)
