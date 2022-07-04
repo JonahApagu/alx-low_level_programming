@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * use the printf function
- * print out the words "with proper grammar, but the outcome is a piece of art,"
+ * use the printf functio
+ * print out the "with proper grammar, but the outcome is a piece of art,"
  * Use the main finction
  * returns 0
  */
