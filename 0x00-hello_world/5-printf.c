@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * use the printf functio
+ * main: entry point
  * print out the "with proper grammar, but the outcome is a piece of art,"
  * Use the main finction
- * returns 0
+ * return: value 0
  */
 int main(void)
 {
