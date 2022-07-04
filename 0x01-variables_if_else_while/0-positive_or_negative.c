@@ -3,7 +3,7 @@
 #include <time.h>
 
 /*
- * main -Entry point
+ * main - Entry point
  * * if and else statements
  * * Return: always (o)
  */
