@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main: entry point
  * print out the "with proper grammar, but the outcome is a piece of art,"
+ * main: entry point
  * Use the main finction
  * Return: value 0
  */
