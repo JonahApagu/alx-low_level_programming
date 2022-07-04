@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main: entry point
+ * main: Entry point
  * Use the main finction
  * Return: value 0
  */
