@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-#include "_putchar.h"
+#include "main.h"
 
 /**
  * main - Check description
@@ -9,12 +9,12 @@
  */
 int main(void)
 {
-	char word[8] = "_putchar";
+	char word[8] = "main";
 	int i;
 
 	for (i = 0; i < 8; i++)
-		_putchar(word[i]);
-	_putchar('\n');
+		main(word[i]);
+	main('\n');
 
 	return (0);
 }
